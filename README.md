@@ -16,4 +16,4 @@
 
 ## Model debug methods
 - Accuracy and f1-score metrics
-- GradCAM
+- GradCAM to check model attention
